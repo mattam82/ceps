@@ -21,6 +21,12 @@
 
 - Controlling shelving behaviors.
 
+- Recognizing holes: 
+  * typeclass to be solved
+  * subgoal
+  * implicit to be filled by unification
+  
+  Naming and refering to those.
 
 
 # Current situation
